@@ -74,7 +74,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                 height: 10,
                               ),
                               const TextWidgets(
-                                name: "Bienvenido de nuevo.",
+                                name: "Bienvenido de nuevo!.",
                                 style: TextStyle(
                                     color: Colors.black, fontSize: 25),
                               ),
