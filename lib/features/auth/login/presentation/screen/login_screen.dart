@@ -132,7 +132,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                     crossAxisAlignment: CrossAxisAlignment.end,
                                     children: [
                                       InputTextformfield(
-                                        helperText: "Eder18091997",
+                                        helperText: "Eder182022",
                                         hintText: "Eder182022",
                                         labelText: "Contraseña",
                                         oscureText: visible,
