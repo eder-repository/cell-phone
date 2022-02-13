@@ -133,7 +133,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                     children: [
                                       InputTextformfield(
                                         helperText: "Eder18091997",
-                                        hintText: "Eder18091997",
+                                        hintText: "Eder182022",
                                         labelText: "Contraseña",
                                         oscureText: visible,
                                         suffix: GestureDetector(

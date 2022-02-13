@@ -51,7 +51,7 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
       return false;
     } else {
       if (state.email == "ederzambranomero@gmail.com" &&
-          state.password == "Eder18091997") {
+          state.password == "Eder182022") {
         await _repository.saveToken("${state.email}/${state.password}");
 
         return true;
